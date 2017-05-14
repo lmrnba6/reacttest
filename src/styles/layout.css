@@ -1,0 +1,7 @@
+div#layout {
+    background-color: gray;
+}
+
+:fullscreen a {
+    display: flex
+}
